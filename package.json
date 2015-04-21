@@ -19,5 +19,19 @@
   "bugs": {
     "url": "https://github.com/andjosh/sally/issues"
   },
-  "homepage": "https://github.com/andjosh/sally"
+  "homepage": "https://github.com/andjosh/sally",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "dependencies": {
+    "co": "^4.5.2",
+    "koa": "^0.19.1",
+    "koa-better-body": "^1.0.17",
+    "koa-compress": "^1.0.8",
+    "koa-jade": "^1.0.1",
+    "koa-request": "^1.0.0",
+    "koa-route": "^2.4.1",
+    "koa-static": "^1.4.9",
+    "lodash": "^3.7.0"
+  }
 }

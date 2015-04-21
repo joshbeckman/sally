@@ -1,0 +1,23 @@
+{
+  "name": "sally",
+  "version": "0.0.1",
+  "description": "starter kit for koa API-based apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test",
+    "start": "node --harmony index.js"
+  },
+  "engines": {
+    "node": "0.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andjosh/sally.git"
+  },
+  "author": "andjosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andjosh/sally/issues"
+  },
+  "homepage": "https://github.com/andjosh/sally"
+}

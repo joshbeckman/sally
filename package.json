@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/andjosh/sally",
   "devDependencies": {
-    "mocha": "^2.2.4"
+    "mocha": "^6.2.2"
   },
   "dependencies": {
     "co": "^4.5.2",

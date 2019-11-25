@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "co": "^4.5.2",
-    "koa": "^0.19.1",
+    "koa": "^2.11.0",
     "koa-better-body": "^1.0.17",
     "koa-compress": "^1.0.8",
     "koa-jade": "^1.0.1",
